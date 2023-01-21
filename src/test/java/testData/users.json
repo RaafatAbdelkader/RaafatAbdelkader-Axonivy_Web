@@ -1,0 +1,14 @@
+{
+  "user_1": {
+    "username": "test8888@gmail.com",
+    "password": "A1hS#!25",
+    "status": "valid",
+    "expectedMSG": "Welcome to your account. Here you can manage all of your personal information and orders."
+  },
+  "user_2": {
+    "username": "Araafat.abdo@gmail.com",
+    "password": "$!@)(#%@@",
+    "status": "invalid",
+    "expectedMSG": "Authentication failed."
+  }
+}
